@@ -1,7 +1,7 @@
 ## Welcome!
-I'm a rising senior at Worcester Polytechnic Institute pursuing a double Bachelor's degree in Computer Science and Mathematical Sciences. After I graduate, I hope to either pursue a Ph.D in Computer Science or attain a reasearch position in industry. 
+I'm a rising senior at Worcester Polytechnic Institute pursuing a double Bachelor's degree in Computer Science and Mathematical Sciences. After I graduate, I hope to either pursue a Ph.D in Computer Science or attain a research position in industry. My long-term goal is to contribute to the development of artificial general intelligence.
 
-## [LinkedIn](https://linkedin.com/mjgiancola)
+## [LinkedIn](https://linkedin.com/in/mjgiancola) | [GitHub](https://github.com/mjgiancola)
 
 ### Markdown
 
