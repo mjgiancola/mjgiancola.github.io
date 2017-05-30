@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Michael Giancola
 
 You can use the [editor on GitHub](https://github.com/mjgiancola/mjgiancola.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
