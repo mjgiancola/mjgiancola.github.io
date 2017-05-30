@@ -1,10 +1,7 @@
-## Michael Giancola
+## Welcome!
+I'm a rising senior at Worcester Polytechnic Institute pursuing a double Bachelor's degree in Computer Science and Mathematical Sciences. After I graduate, I hope to either pursue a Ph.D in Computer Science or attain a reasearch position in industry. 
 
-You can use the [editor on GitHub](https://github.com/mjgiancola/mjgiancola.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-[Click me here](http://www.linkedin.com){: .btn}
+## [LinkedIn](https://linkedin.com/mjgiancola)
 
 ### Markdown
 
