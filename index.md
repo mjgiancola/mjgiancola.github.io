@@ -3,4 +3,4 @@ I'm a rising senior at Worcester Polytechnic Institute pursuing a double Bachelo
 
 For more information about projects I've worked on, visit the links below. The best way to contact me is via the email below.
 
-<center> <h2> <a href="https://linkedin.com/in/mjgiancola">LinkedIn</a> | <a href="https://github.com/mjgiancola">GitHub</a> | <a href="https://www.overleaf.com/read/wphjcsjhmqhz">Resume</a> | <a href="mailto:mjgiancola@wpi.edu">Email</a> </h2> </center>
+<center> <h2> <a href="https://linkedin.com/in/mjgiancola">LinkedIn</a> | <a href="https://github.com/mjgiancola">GitHub</a> | <a href="https://mjgiancola.github.io/papers">Papers</a> | <a href="https://www.overleaf.com/read/wphjcsjhmqhz">Resume</a> | <a href="mailto:mjgiancola@wpi.edu">Email</a> </h2> </center>
