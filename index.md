@@ -1,9 +1,9 @@
 ## Welcome!
-I'm a rising senior at Worcester Polytechnic Institute pursuing a double Bachelor's degree in Computer Science and Mathematical Sciences. After I graduate, I hope to either pursue a Ph.D in Computer Science or attain a research position in industry. My research interests include cognitive/neural architectures and transfer learning. My long-term goal is to contribute to the development of artificial general intelligence.
+I'm a senior at Worcester Polytechnic Institute pursuing a double Bachelor's degree in Computer Science and Mathematical Sciences. After I graduate, I hope to either pursue a Ph.D in Computer Science or attain a research position in industry. My research interests include cognitive/neural architectures, brain-inspired AI, and AI alignment. My long-term goal is to contribute to the development of artificial general intelligence.
 
-I'm currently working on a research project for IBM. I'm developing a novel method for 3D object detection and localization. Our method utilizes a single shot convolutional neural network to achieve very low latency. This makes it suitable for applications which require low latency like autonomous driving.
+This past summer I worked on a research project for IBM. I developed a novel method for 3D object detection and localization by adapting the [YOLO](https://pjreddie.com/darknet/yolo/) framework to input RGB-D image frames and output 3D bounding boxes. Our method utilizes a single shot convolutional neural network and thus achieves very low latency. This makes it suitable for applications which require low latency like autonomous driving.
 
-In the fall I will begin work on my Major Qualifying Project at WPI. I will be researching a method to determine variable-length string labels for video data from crowdsourced responses.
+Currently I'm working on my Major Qualifying Project at WPI. I'm researching a method to determine variable-length string labels for video data from crowdsourced responses. Our major research question is, given a set of crowdsourced labels, can we recover not only the true labels, but also a style matrix which translates each labeler's style to the "canonical" style (eg. using an underscore in place of a dash).
 
 For more information about projects I've worked on, visit the links below. The best way to contact me is via the email below.
 
