@@ -1,6 +1,8 @@
-<center> <h2> <a href="https://www.overleaf.com/read/tqfwmzqwdyvt">Curriculum Vitae</a> | <a href="https://mjgiancola.github.io/archive">Archive</a> </h2> </center>
+<center> <h2> <a href="https://www.overleaf.com/read/tqfwmzqwdyvt">Curriculum Vitae</a> | <a href="https://mjgiancola.github.io/archive">Personal Archive</a> </h2> </center>
 
-<center> <h2> <a href="https://linkedin.com/in/mjgiancola">LinkedIn</a> | <a href="https://scholar.google.com/citations?hl=en&user=jLS7LmUAAAAJ">Google Scholar</a> | <a href="https://github.com/mjgiancola">GitHub</a> </h2> </center>
+<center> <h2> <a href="https://www.researchgate.net/profile/Michael_Giancola">ResearchGate</a> | <a href="https://scholar.google.com/citations?hl=en&user=jLS7LmUAAAAJ">Google Scholar</a> </h2> </center>
+
+<center> <h2> <a href="https://linkedin.com/in/mjgiancola">LinkedIn</a> | <a href="https://github.com/mjgiancola">GitHub</a> </h2> </center>
 
 ## Welcome!
 I am pursuing my PhD in Computer Science at Rensselaer Polytechnic Institute, where I am a Research Assistant in the [Rensselaer AI and Reasoning (RAIR) Lab](https://rair.cogsci.rpi.edu/). I recently graduated with a double Bachelor's Degree in Computer Science and Mathematical Sciences from Worcester Polytechnic Institute.
@@ -11,4 +13,4 @@ I believe it is essential that AI agents are able to provide justification and v
 To that end, my research interests include automated theorem proving, consistency-controlling logics, causal models, cognitive/neural architectures, and artificial general intelligence. My current research is focused on defeasible reasoning -- specifically, creating defeasible modal reasoners -- and uncertainty in modal logics.
 
 ### Contact & More Information
-For more information about projects I've worked on, visit the links at the top of this page. The best way to contact me is via [email](mailto:giancm@rpi.edu).
+For more information about projects I've worked on, visit the links at the top of this page. The best way to contact me is via [email](mailto:mike.j.giancola@gmail.com).
