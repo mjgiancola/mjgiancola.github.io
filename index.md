@@ -1,9 +1,3 @@
-<center> <h2> <a href="https://www.overleaf.com/read/tqfwmzqwdyvt">Curriculum Vitae</a> | <a href="https://mjgiancola.github.io/archive">Personal Archive</a> </h2> </center>
-
-<center> <h2> <a href="https://www.researchgate.net/profile/Michael_Giancola">ResearchGate</a> | <a href="https://scholar.google.com/citations?hl=en&user=jLS7LmUAAAAJ">Google Scholar</a> </h2> </center>
-
-<center> <h2> <a href="https://linkedin.com/in/mjgiancola">LinkedIn</a> | <a href="https://github.com/mjgiancola">GitHub</a> </h2> </center>
-
 ## Welcome!
 I am pursuing my PhD in Computer Science at Rensselaer Polytechnic Institute, where I am a Research Assistant in the [Rensselaer AI and Reasoning (RAIR) Lab](https://rair.cogsci.rpi.edu/). I recently graduated with a double Bachelor's Degree in Computer Science and Mathematical Sciences from Worcester Polytechnic Institute.
 
