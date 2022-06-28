@@ -1,7 +1,7 @@
 ## Welcome!
 I am a PhD Candidate in Computer Science at Rensselaer Polytechnic Institute, where I am also a Research Assistant in the [Rensselaer AI and Reasoning (RAIR) Lab](https://rair.cogsci.rpi.edu/). I am simultaneously pursing a MS in Cognitive Science, and graduated with a double Bachelor's Degree in Computer Science and Mathematical Sciences from Worcester Polytechnic Institute in 2018.
 
-This past summer, I'm was an Applied Scientist Intern in the Automated Reasoning Group at Amazon Web Services (AWS). There I created machine-learning models to predict the runtime of SMT solvers.
+This summer I returned to Amazon as an Applied Scientist Intern, this time in the Amazon Lex team, where I'm researching methods for understanding entailment in indirect speech acts. More specifically, the goal of the project is to enable dialog agents to identify implicit intents from user utterances.
 
 ### Research Interests
 I believe it is essential that AI agents are able to provide justification and verification for their actions/decisions. That is, AI agents should be able to justify their decisions and verify that the decision is correct, follows a moral/legal code, etc., (most likely) by providing a proof or argument.
