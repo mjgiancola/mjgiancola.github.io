@@ -1,5 +1,5 @@
 ## Welcome!
-I am a PhD Candidate in Computer Science at Rensselaer Polytechnic Institute, where I am also a Research Assistant in the [Rensselaer AI and Reasoning (RAIR) Lab](https://rair.cogsci.rpi.edu/). I am recently earned a MS in Cognitive Science from RPI, and graduated with a double Bachelor's Degree in Computer Science and Mathematical Sciences from Worcester Polytechnic Institute in 2018.
+I am a PhD Candidate in Computer Science at Rensselaer Polytechnic Institute, where I am also a Research Assistant in the [Rensselaer AI and Reasoning (RAIR) Lab](https://rair.cogsci.rpi.edu/). I also recently earned a MS in Cognitive Science from RPI, and graduated with a double Bachelor's Degree in Computer Science and Mathematical Sciences from Worcester Polytechnic Institute in 2018.
 
 This past summer I returned to Amazon as an Applied Scientist Intern, this time in the Amazon Lex team, where I researched methods for understanding entailment in indirect speech acts. More specifically, the goal of the project was to enable dialog agents to identify implicit intents from user utterances.
 
